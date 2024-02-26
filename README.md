@@ -1,4 +1,3 @@
-Gênese do Projeto:
 A concepção deste código foi impulsionada pela necessidade de criar uma interface de usuário mais personalizada e esteticamente agradável para um formulário de login. Inicialmente utilizando o módulo tkinter do Python, percebi a oportunidade de aprimorar a experiência do usuário e criei um wrapper, chamado customtkinter, para estilizar e simplificar o processo.
 
 Implementação Inicial com Tkinter:
